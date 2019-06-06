@@ -32,3 +32,7 @@ hit the reset button.
 ## Known Issues
 
 When pausing / resuming, subseconds may be shaved off of the elapsed time.
+
+## Reporting Bugs
+
+If you have any problems or questions, feel free to open an issue in the Issue Tracker.
